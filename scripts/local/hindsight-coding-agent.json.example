@@ -1,0 +1,10 @@
+{
+  "serverMode": "self-hosted",
+  "apiUrl": "http://127.0.0.1:8888",
+  "bankId": "coding-agent::Hindsight",
+  "harnesses": {
+    "grok-build": {
+      "autoReflect": false
+    }
+  }
+}
